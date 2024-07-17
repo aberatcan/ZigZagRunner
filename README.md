@@ -1,7 +1,9 @@
 # Zig Zag Runner Game
 
-![Zig Zag Runner](/screenshot.jpg)
-![Zig Zag Runner](/screenshot2.jpg)
+<div>   
+   <img src="/screenshot.jpg" alt="Zig Zag Runner" width="200"/>
+   <img src="/screenshot2.jpg" alt="Zig Zag Runner" width="200"/>
+</div>
 
 ## Overview
 

@@ -50,6 +50,7 @@ sysinfo.txt
 
 # Idea generated files
 /*.idea
+.DS_store
 
 # Builds
 *.apk

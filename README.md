@@ -3,7 +3,7 @@
 <div>   
    <img src="/screenshot.jpg" alt="Zig Zag Runner" width="200"/>
    <img src="/screenshot2.jpg" alt="Zig Zag Runner" width="200"/>
-   <img src="/screenshot3.png" alt="Zig Zag Runner" width="200"/>
+   <img src="/screenshot3.jpg" alt="Zig Zag Runner" width="200"/>
 </div>
 
 ## Overview

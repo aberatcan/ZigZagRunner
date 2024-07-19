@@ -41,9 +41,12 @@ sysinfo.txt
 # Gradle cache directory
 .gradle/
 
-# VS Code generated files
+# Visual Studio generated files
 *.csproj
 /*.sln
+
+# VS Code generated files
+.vscode/
 
 # Idea generated files
 /*.idea
